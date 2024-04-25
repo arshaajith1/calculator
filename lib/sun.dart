@@ -77,7 +77,6 @@ class _Screen3State extends State<Screen3> {
                       onPressed: () {double num1=double.parse(enteranumberController.text);
                        double num2=double.parse(enteraNumberController.text);
                        result=num1+num2;
-
                        print(result);
                        setState(() {
 
