@@ -66,8 +66,7 @@ class _Screen3State extends State<Screen3> {
             Column(
               children: [
                 SizedBox(
-                  height: 45.0,
-                ),
+                  height: 45.0,),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
